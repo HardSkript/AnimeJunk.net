@@ -1,0 +1,139 @@
+
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<meta name="Keywords" content="AnimeJunk,Anime Junk,Anime,Manga,Imageboard,FAQ" />
+		<meta name="Description" content="Animejunk;An imageboard for fans of Anime and related media, FAQ" />
+		<meta name="Author" content="Darkinin" />
+
+		<title>
+
+			AnimeJunk - Frequently Asked Questions
+		</title>
+
+		<link rel="stylesheet" media="screen" href="/stylesheets/style.css" />
+		<link rel="stylesheet" media="screen" href="/animejunkstyle.css" />
+	</head>
+
+	<body>
+
+		<div class="container">
+
+			<header>
+
+				<h1>
+
+					AnimeJunk
+				</h1>
+
+				<div class="subtitle">
+
+					<h3><em>
+
+						" We are Legion, we do not pony, we do not Korra, expect us when we make a goodmorning thread. "
+					</em></h3>
+				</div>
+			</header>
+
+			<div class="ban">
+
+				<h2>Frequently Asked Questions</h2>
+
+				<p>
+
+					Below is contained the list of <strong>F</strong>requently <strong>A</strong>asked <strong>Q</strong>uestions.  Please refer to this page whenever you should have a question on the functionality or features of this imageboard.
+				</p>
+
+				<hr />
+
+				<div class="centered">
+
+					<a href="/">Back to Front Page</a>
+				</div>
+			</div>
+
+			<div class="ban listing">
+
+				<h2>Basics</h2>
+
+				<br />
+
+				<span class="question">What is AnimeJunk?</span>
+
+				<br />
+
+				<p class="answer">
+
+					AnimeJunk is a website dedicated to enthusiasts of anime and related media.  board.animejunk.net in particular is the imageboard portion of the website, which is much like 4Chan.
+				</p>
+
+				<br />
+
+				<hr />
+
+				<br />
+
+				<span class="question">What is there to know?</span>
+
+				<br />
+
+				<p class="answer">
+
+					You should always read the <a href="rules">Rules</a> of any website and community that you participate in.  It's also a good idea to read the FAQ, as you are already doing.
+				</p>
+
+				<br />
+			</div>
+
+			<br class="clear" />
+
+			<div class="ban listing">
+
+				<h2>Features</h2>
+
+				<br />
+
+				<span class="question">What are Tripcodes?</span>
+
+				<br />
+
+				<p class="answer">
+
+					Tripcodes are hashed strings that serve to show that one post is made by the creator of another post, basically serving as something of a public password to prove the identity of a poster.  They are made by creating a string preceded by either a single hash mark (#) or two (##) into the name field.
+				</p>
+
+				<p class="answer">
+
+				Note that use of a single hash tag is considered insecure, as such a tripcode is only hashed once, whereas a tripcode with two hash marks has been hashed twice, and is usually considered to be secure.
+				</p>
+			</div>
+
+			<br class="clear" />
+
+			<hr />
+
+			<p class="unimportant" style="margin-top:20px;text-align:center;">
+
+				Powered by
+
+				<a href="http://tinyboard.org">
+
+					Tinyboard
+				</a>
+
+				v0.9.6-dev-18 |
+
+				<a href="http://tinyboard.org">
+
+					Tinyboard
+				</a>
+
+				Copyright &copy; 2010-2012 Tinyboard Development Group
+			</p>
+		</div>
+	</body>
+</html>

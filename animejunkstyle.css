@@ -1,0 +1,97 @@
+
+h1, h3 {
+
+	font-family: Verdana, Tahoma;
+}
+
+a {
+
+	text-decoration: none;
+}
+
+p.answer {
+
+	margin-left: 10px;
+}
+
+a.anchor {
+
+	color: black;
+}
+
+a.contentarea {
+
+	line-height: 2;
+}
+
+br.clear {
+
+	clear: both;
+	line-height: 0;
+}
+
+span.question {
+
+	display: block;
+	margin-left: 5px;
+	font-weight: bold;
+}
+
+span.category {
+
+	display: block;
+	line-height: 2;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+div.topout {
+
+	margin-top: 0px;
+}
+
+div.bottomout {
+
+	margin-bottom: 0px;
+}
+
+div.centered {
+
+	text-align: center;
+}
+
+div.navigator {
+
+	float: left;
+	/* max-width: 340px; */
+	width: 340px;
+	margin: 0px;
+}
+
+div.listing {
+
+	float: right;
+	/* max-width: 340px; */
+	width: 340px;
+	margin: 0px 0px 20px 0px;
+}
+
+div.container {
+
+	width: 700px;
+	margin: 30px auto;
+	margin-top: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+/*
+ * Area for styles under audit
+ * All of the below could be changed or removed
+ * at any time
+*/
+
+div.ban {
+
+/*	margin: 30px 0px 30px 0px;	*/
+}

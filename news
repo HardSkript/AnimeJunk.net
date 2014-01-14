@@ -1,0 +1,66 @@
+<!doctype html>
+
+<html>
+
+	<head>
+
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<meta name="Keywords" content="AnimeJunk,Anime Junk,Anime,Manga,Imageboard,News" />
+		<meta names="Description" content="AnimeJunk; An imageboard for fans of anime and related media, news" />
+		<meta name="Author" content="Darkinin" />
+
+		<title>
+
+			AnimeJunk - News
+		</title>
+
+		<link rel="stylesheet" media="screen" href="/stylesheets/style.css"/>
+		<link rel="stylesheet" media="screen" href="/animejunkstyle.css" />
+	</head>
+
+	<body>
+
+		<header>
+
+			<h1>AnimeJunk</h1>
+
+			<div class="subtitle">
+
+				<h3><em>
+
+					" We are Legion, we do not pony, we do not Korra, expect us when we make a goodmorning thread. "
+				</em></h3>
+			</div>
+		</header>
+
+		<div class="ban">
+
+			<h2 id="5">Looking for logo!<span class="unimportant"> &mdash; by Darkinin at 09/09/13 (Mon) 01:52:56</span></h2>
+
+			<p>Hey, Dark again, and I'd like to say that I am now looking for either an image to make the official logo and favicon for AnimeJunk, or at least content to base it off of.<br/><br/>When I either get enough logos/favicons or ideas for a logo I'll announce such, and either choose the logo somehow or put out another announcement calling for help in creation of the logo.<br/><br/>- Darkinin-kun
+			</p>
+
+			<h2 id="2">Site up and running<span class="unimportant"> &mdash; by Darkinin at 09/08/13 (Sun) 04:36:45</span></h2>
+
+			<p>
+
+			I'd like to thank everyone who waited patiently for me to get the site running, including those who were not already members of AnimeJunk.  I hope the site sticks around for a long time, and that many people will enjoy it and the community<br/><br/> - Darkinin-kun
+			</p>
+		</div>
+
+		<hr/>
+
+		<p class="unimportant" style="margin-top:20px;text-align:center;">
+
+			Powered by 
+
+			<a href="http://tinyboard.org/">Tinyboard</a>
+
+			 v0.9.6-dev-18 | 
+
+			<a href="http://tinyboard.org/">Tinyboard</a> 
+
+			 Copyright &copy; 2010-2012 Tinyboard Development Group
+		</p>
+	</body>
+</html>

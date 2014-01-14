@@ -1,0 +1,209 @@
+
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<meta http-equiv="Content-type" content="text/html; chartset=utf-8" />
+		<meta name="Keywords" content="AnimeJunk,Anime Junk,Anime,Manga,Imageboard" />
+		<meta name="Description" content="AnimeJunk; An imageboard for fans of Anime and related media." />
+		<meta name="Author" content="Darkinin" />
+
+		<title>
+
+			AnimeJunk - Rules
+		</title>
+
+		<link rel="stylesheet" media="screen" href="/stylesheets/style.css" />
+		<link rel="stylesheet" media="screen" href="/animejunkstyle.css" />
+	</head>
+
+	<body>
+
+		<div class="container">
+
+			<header>
+
+				<h1>
+
+					AnimeJunk
+				</h1>
+
+				<div class="subtitle">
+
+					<h3><em>
+
+						" We are Legion, we do not pony, we do not Korra, expect us when we make a goodmorning thread. "
+					</em></h3>
+				</div>
+			</header>
+
+<div class="container">
+			<div name="main" class="ban">
+
+				<h2>Rules</h2>
+
+				<p>
+
+					Below are contained the official rules of this imageboard (board.animejunk.net).  The below are all rules, but not all rules are listed, and all rules can change at any time, under any circumstances.
+				</p>
+
+				<hr />
+
+				<div class="centered">
+
+					<a href="/">Back to Front Page</a>
+				</div>
+			</div>
+
+			<div name="left" class="ban navigator">
+
+				<h2>Boards</h2>
+
+				<br />
+
+				<ul><li><a href="#global">Global</a></li>
+
+				<li><a href="#imageboards">Imageboards</a></li>
+
+				<ul><li><a href="#a">Anime &amp; Manga</a></li>
+
+				<li><a href="#h">Hentai</a></li>
+
+				<li><a href="#b">Random</a></li>
+
+				<li><a href="#r">Request</a></li>
+
+				<li><a href="#soc">Social</a></li></ul>
+			</ul>
+
+			<br />
+
+			</div>
+
+			<div name="right" class="ban listing">
+
+				<h2><a id="global" class="anchor">Global</a></h2>
+
+				<br />
+
+			<ol><li>Do not post any content or links to content that is against State or United States Federal Law.  Such acts may be punished by a ban.</li>
+
+				<li>Pornography shall not be posted on board other than what are listed below.</li>
+
+				<ul><li>Hentai</li>
+
+				<li>Random</li>
+
+				<li>Request</li></ul>
+
+				<li>False reports, and claims that you have submitted a report, may be punished by a ban.</li>
+
+				<li>IP ban or suspension evasion, or otherwise evading punishment, will result in a ban of the user and their current IP addres.</li>
+
+				<li>Spamming, or advertising, or the evasion of filters protecting against both of the former, may be punished by a ban.</li>
+
+				<li>Impersonating website staff may be punished by a ban.</li>
+
+				<li>Pony, or "Brony" content, shall be punished by a ban.</li></ol>
+
+				<br />
+			</div>
+
+			<br class="clear" />
+
+			<div class="ban listing">
+
+				<h2><a id="imageboards" class="anchor">Imageboards</a></h2>
+
+				<br />
+
+				<h3><a id="a" class="anchor"><p>/a/ - Anime &amp; Manga</p></a></h3>
+
+				<br />
+
+				<ol><li>All posts and all posted content should relate to anime, manga, or related media.</li>
+
+				<li>Any posts found to contain spoilers in a thread not marked as containing or possibly containing spoilers will be deleted, including the OP.</li></ol>
+
+				<br />
+
+				<hr />
+
+				<br />
+
+				<h3><a id="h" class="anchor"><p>/h/ - Hentai</p></a></h3>
+
+				<br />
+
+				<ol><li>All posts and all posted content should be related to animated Pornography.</li></ol>
+
+				<br />
+
+				<hr />
+
+				<br />
+
+				<h3><a id="b" class="anchor"><p>/b/ - Random</p></a></h3>
+
+				<br />
+
+				<ol><li>lelwat</li></ol>
+
+				<br />
+
+				<hr />
+
+				<br />
+
+				<h3><a id="r" class="anchor"><p>/r/ - Request</p></a></h3>
+
+				<br />
+
+				<ol><li>All posts and all posted content should be related to requests for sources of content, or links to or the content itself.</li></ol>
+
+				<br />
+
+				<hr />
+
+				<br />
+
+				<h3><a id="soc" class="anchor"><p>/soc/ - Social</p></a></h3>
+
+				<br />
+
+				<ol><li>All posts and all posted content should be related to social events, or the act or proposition of social activities, such as camming.</li>
+
+				<li>No threads complaining about issues in your life.</li>
+
+				<li>Soliciting payment for photos or camshos, and wishlist/gift threads are not allowed.</li><ol>
+
+				<br />
+			</div>
+
+			<br class="clear" />
+
+			<hr />
+
+			<p class="unimportant" style="margin-top:20px;text-align:center;">
+
+				Powered by
+
+				<a href="http://tinyboard.org/">
+
+					Tinyboard
+				</a>
+
+				v0.9.6-dev-18 |
+
+				<a href="http://tinyboard.org/">
+
+					Tinyboard
+				</a>
+
+				Copyright &copy; 2010-2012 Tinyboard Development Group
+			</p>
+		</div>
+	</body>
+</html>
